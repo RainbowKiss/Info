@@ -1,1 +1,12 @@
+New Changes:
 
+Within the next few weeks these changes below will be added!
+
+1) Configs folders: Open config folder locations to cheats 
+within the loader, if the folder does'nt exisit the loader 
+will create it for you.
+
+2) Byte streaming: Able to run applications from memory 
+rather than downloading to disk.
+
+3) New cheats and updates also excepted to be added.
