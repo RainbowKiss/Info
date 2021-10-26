@@ -1,27 +1,20 @@
 Information: 
 
-This is a patched update of vb-loader, some 
-functions may contain issues. If you have any 
-problems while using this update please contact 
-staff in either discord server! 
+This is a more stable version of the loader
+links for cheats have been moved to github.
+Also some extra features have also been added.
 
 What's New? 
 
-1) UI changes have been implemented to this 
-version of vb-loader. 
+1) You are now able to enable/disable the title
+changer and clock timer in settings.
 
-2) Manual map dll injector will now inject 
-using byte array, meaning the dll will not 
-touch your hard disk, this is done by memory. 
+2) Added a unique theme editor.
 
 Replacements: 
 
-1) Configs section has been removed you can 
-find configs in the vb-loader Discord server. 
-
-2) Language changer has been removed for now 
-a replacement for this will be implemented at 
-a later date. 
+1) Replaced the pastbin links with github for a 
+more stable conntection.
 
 If you have any questions regarding this version 
 of vb-loader contact me on Discord. 
