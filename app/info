@@ -4,26 +4,32 @@ This version of vb-loader is the start to
 creating the best csgo cheat loader. Stay
 tunned for more feautres coming soon!
 
-What's New? 
+Cheat Information & News:
 
-1) You can now change theme icons to match
-your custom theme colours.
+Remove Cheats:
 
-2) Added apps page with apps included.
+1) Revox removed (not injecting).
 
-3) You can now use the manual injector to 
-inject into csgo, gtav and tf2.
+2) Neps removed (not injecting).
 
-4) X1 new legit cheat addded. (Fluid Aim)
+3) Moonlight removed (not injecting)
 
-Replacements: 
+Cheats needing Update:
 
-1) Vac Bypass will now touch your disk run
-from memory the remove itself rather than
-just running from memory.
+Whats New?
 
-If you have any questions regarding to this
-version of vb-loader contact me on Discord.
+Dll storage has been moved to github, from 
+modia.xyz the server is now closed.
 
-Thnaks for using vb-loader and being a member
-of VacBan.WTF
+Fixes: 
+
+1) Fixed animated pages option in tools.
+You can now disable animated page sliding.
+
+2) Fixed colour issue in settings.
+You can now edit the (Tools Injector Game) settings.
+
+For more information regarding any of the things above 
+submit a ticket here #support
+
+Thanks for using vb-loader!
